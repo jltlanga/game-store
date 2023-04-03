@@ -19,7 +19,11 @@ Página de login.
 
 # Tecnologias Utilizadas
 HTML;
+
 CSS3;
+
 Bootstrap;
+
 JQuery;
-JavaScript;
+
+JavaScript.
