@@ -27,3 +27,10 @@ function login(){
         alert('Acesso Negado. Dados incorretos');
     }
 }
+
+// Atiar alerta no botão cadastrar
+
+function cadastro(){
+    alert('Cadastrado com sucesso!');
+    window.location.href = 'index.html';
+}
