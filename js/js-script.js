@@ -9,14 +9,12 @@ function topo() {
     )
 }
 
-// validar login
-
+// validar de login
 function login(){
     var logado = 0;
-    var usuario = document.getElementById('usuario')[0].value;
+    var usuario = document.getElementById('usuario').value;
     usuario = usuario.toLowerCase();
     var senha = document.getElementById('senha').value;
-    senha = senha.toLowerCase();
 
     // validação de login
     if(usuario == 'admin' && senha =='12345'){
