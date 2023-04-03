@@ -9,14 +9,17 @@ Este é um projeto de um site responsivo com funcionalidades desenvolvido utiliz
 O objetivo deste projeto é demonstrar a capacidade de desenvolver um site responsivo e com funcionalidades utilizando diversas tecnologias web.
 
 # Funcionalidades
-Formulário de contato
-Carousel de imagens
-Menu responsivo
-Página de login
+Formulário de contato;
+
+Carousel de imagens;
+
+Menu responsivo;
+
+Página de login.
 
 # Tecnologias Utilizadas
-HTML
-CSS3
-Bootstrap
-JQuery
-JavaScript
+HTML;
+CSS3;
+Bootstrap;
+JQuery;
+JavaScript;
