@@ -4,7 +4,7 @@ Site responsivo com funcionalidades em HTML, CSS3, Bootstrap, JQuery e JavaScrip
 
 # Descrição
 
-Este é um projeto de um site responsivo com funcionalidades desenvolvido utilizando HTML, CSS3, Bootstrap, JQuery e JavaScript. O site possui uma página inicial (index) com menu, banner, destaque, novidades, galeria e rodapé, além da página de login.
+Este é um projeto de um site responsivo com funcionalidades desenvolvidas utilizando HTML5, CSS3, Bootstrap, JQuery e JavaScript. O site possui uma página inicial (index) com menu, banner, destaque, novidades, galeria e rodapé, além da página de login.
 
 O objetivo deste projeto é demonstrar a capacidade de desenvolver um site responsivo e com funcionalidades utilizando diversas tecnologias web.
 
